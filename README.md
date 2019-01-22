@@ -1,27 +1,10 @@
-# Introduction
+# Weex-code
+## 基于Weex、vue2.0跨端多兼容前端开发方案
+### weex官网
+http://weex.apache.org/cn/guide/index.html
 
-This boilerplate is targeted towards large, serious projects and assumes you are somewhat familiar with Webpack and `weex-loader`. 
+### weex-ui 组建库
+https://alibaba.github.io/weex-ui/#/cn/
 
-## Quickstart
-
-To use this template, scaffold a project with [weexpack v1.1.1+](https://github.com/weexteam/weex-pack).
-
-``` bash
-$ npm install -g weex-toolkit
-$ weex create my-project # default will create the webpack template
-$ cd my-project && npm start
-```
-
-## How to use less/sass/pug
-
-Take `sass` for example:
-
-```
-$ npm i node-sass sass-loader --save
-```
-
-Then, you just need to change the `style` tag as: `<style lang="sass"><style>`.
-
-## How to create your own template
-
-See [How-to-create-your-own-template](https://github.com/weex-templates/How-to-create-your-own-template).
+##项目初始化
+### 
